@@ -2,7 +2,7 @@
 
 **Live:** <https://mukundakatta.github.io/sparktest/>
 
-AI Creativity Tester. Benchmark for measuring AI creative capabilities across domains. sparktest gives you a focused, inspectable implementation of that idea.
+AI Creativity Tester. Benchmark for measuring AI creative capabilities across domains.
 
 ## Why sparktest
 
